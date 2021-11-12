@@ -1,0 +1,4 @@
+apt-get update && apt-get upgrade
+apt install apt-transport-https
+apt-get install vim
+vim /etc/apt/sources.list
